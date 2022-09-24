@@ -10,7 +10,7 @@ export default function Home() {
 					<Image className='flex' src={screenpay} alt='screenpay'/>
 
 				</div>
-				<div className='font-sans text-2xl font-bold text-white p-10'>Soon</div>
+				<div className='font-sans text-4xl font-bold text-white p-10'>Soon</div>
 			</div>
 	)
 }
